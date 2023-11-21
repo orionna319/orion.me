@@ -2,7 +2,7 @@
 title: 'First post'
 description: 'First post'
 pubDate: '2023-11-21 19:59:09'
-heroImage: '/src/images/xiamen.png'
+heroImage: '/xiamen.png'
 ---
 
 猎户星座-朴树
