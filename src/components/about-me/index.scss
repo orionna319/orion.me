@@ -1,0 +1,12 @@
+.about-me {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  &-content {
+    min-width: 360px;
+    margin-top: 20px;
+  }
+  &-poetry {
+    white-space: pre-wrap;
+  }
+}
